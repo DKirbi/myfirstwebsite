@@ -1,4 +1,3 @@
-const image = document.getElementById("gallery");
 var pictures = [ {
     "name": "Škofja Loka Bridge",
     "link": "https://live.staticflickr.com/65535/51565570257_0ab24e3457_o.jpg"
